@@ -1,0 +1,829 @@
+div.white{
+	background-image: url(../images/Rectangle24.png);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 600px;
+	
+
+
+}
+
+
+div.blue{
+	background-image: url(../images/Rectangle2.png);
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+	height: 600px;
+	
+	
+}
+
+
+
+div.flex img{
+	height:22px;
+}
+
+div.flex p{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 18px;
+color: gray;
+}
+
+div.flex span{
+	color: #606060;
+}
+
+
+div.group img{
+	position: absolute;
+	height: 455px;
+	top: 11%;
+	left: 405px;
+}
+
+div.group h3{
+	position: absolute;
+	
+	top: 25%;
+	left: 42%;
+	font-family: 'Montserrat';
+font-style: normal;
+font-weight: 550;
+font-size: 25px;
+line-height: 39px;
+text-align: center;
+
+}
+
+div.group h2{
+	font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 35px;
+line-height: 49px;
+
+position: absolute;
+left: 40%;
+top: 53%;
+}
+
+div.group i{
+	position: absolute;
+	top: 67%;
+	left: 48%;
+}
+
+
+/*home css*/
+
+
+
+
+
+div.second p{
+	font-family: 'Montserrat';
+font-style: normal;
+font-weight: 200;
+font-size: 13px;
+color: #FFFFFF;
+}
+
+div.second h5{
+	font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+}
+
+
+	
+
+/*second css*/
+
+
+
+
+
+
+
+	
+
+}
+/*third css*/
+
+div.fourth{
+	background: #D8D8D8;
+	padding-bottom: 120px;
+}
+
+div.fourth p{
+	font-family: 'Montserrat';
+font-style: normal;
+font-weight: 200;
+font-size: 15px;
+color: #0A0A0A;
+}
+
+div.fourh h3{
+	font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+color: #0A0A0A;
+
+}
+
+div.card4 p{
+	padding-top: 200px;
+	font-family: 'Montserrat';
+font-style: normal;
+color: #FFFFFF;
+}
+
+div.card5 p{
+	padding-top: 160px;
+	font-family: 'Montserrat';
+font-style: normal;
+color: #FFFFFF;
+}
+
+div.card4 h5{
+	font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 39px;
+}
+
+div.card5 h5{
+	font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 39px;
+}
+/*fourth css*/
+
+
+
+
+div.fifth img{
+	position: relative;
+	height: 600px;
+	padding-left: 400px;
+	margin-top: 90px;
+
+}
+
+/*fifth css*/
+
+
+
+div.sixth h2{
+	font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 33px;
+line-height: 39px;
+text-align: center;
+}
+
+
+	
+
+
+
+
+div.cards .card h5{
+	font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 22px;
+line-height: 29px;
+text-align: center;
+}
+
+div.cards .card p{
+font-family: 'Montserrat';
+font-weight: 400;
+font-size: 13px;
+line-height: 20px;
+text-align: center;
+
+}
+/*sixth css*/
+
+
+div.seven{
+	height: 400px;
+	
+}
+
+div.seven h2{
+	font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 39px;
+}
+
+
+div.isti h1{
+	position: absolute;
+	top: 30%;
+	left: 25%;
+	font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 80px;
+line-height: 120%;
+color: #FAAD01;
+}
+
+
+div.carousel-item .tekst{
+	background:  #243F60;
+	height: 350px;
+}
+
+div.carousel-item h2{
+	font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 30px;
+line-height: 39px;
+color: #F8F8F8;
+}
+
+div.carousel-item p{
+	font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 17px;
+line-height: 30px;
+color: #F8F8F8;
+
+
+}
+
+.carousel-indicators li {
+  display: inline-block;
+  width: 15px;
+  height: 15px;
+  margin: 0 5px;
+  text-indent: -999px;
+  border: 2px solid #FAAD01;
+  border-radius: 100%;
+  cursor: pointer;
+  background-color:#243F60 ;
+
+}
+
+.carousel-indicators .active {
+  background-color: #243F60;
+}
+
+.carousel-container {
+  position: relative;
+}
+.carousel-indicators {
+  position: absolute;
+  top: 860px;
+  left: 0;
+  right: 0;
+  margin-top: 0;
+  padding: 0;
+  text-align: center;
+}
+
+/*seven css*/
+
+div.footer{
+	margin-top: 580px;
+	background:#243F60 ;
+
+}
+
+div.footer h3{
+	font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 22px;
+}
+
+div.footer .first p{
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 17px;
+line-height: 22px;
+}
+
+div.footer .first a{
+	font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 17px;
+}
+
+div.footer .down p{
+	font-family: 'Montserrat';
+font-style: normal;
+font-weight: 600;
+font-size: 12px;
+line-height: 15px;
+text-align: center;
+}
+
+/*footer css*/
+
+
+
+@media (max-width: 426px) {
+  .group h2 {
+    color: black;
+    transform: translateX(-90px);
+  }
+}
+
+
+@media (min-width: 426px) {
+  .group h2 {
+    color: white;
+  }
+}
+
+
+@media (max-width: 426px) {
+  .group h3 {
+    color: black;
+    width: 80%;
+     position: absolute;
+    transform: translateX(-130px);
+  }
+}
+
+
+@media (min-width: 426px) {
+  .group h3 {
+    color: white;
+    width: 16%;
+    
+  }
+}
+
+@media (max-width: 426px) {
+  .group i {
+    color: black;
+    transform: translateX(-15px);
+    
+   
+  }
+}
+
+
+@media (min-width: 426px) {
+  .group i {
+    color: white;
+  }
+}
+
+@media (max-width: 426px) {
+   .group img {
+      display: none;
+   }
+}
+
+
+@media (min-width: 426px){
+	.second h2{
+		font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 39px;
+margin-top: 50px;
+margin-bottom: 50px;
+text-align: center;
+	}
+}
+
+@media (max-width: 426px){
+	.second h2{
+		font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 39px;
+padding-top: 50px;
+text-align: center;
+	}
+}
+
+@media (max-width: 426px){
+	.second .nastani button{
+		display: none;
+	}
+}
+
+@media (max-width: 426px) {
+   h5.home, p.home{
+      display: none;
+   }
+}
+
+
+@media (max-width: 426px) {
+   .card1 p, .card2 p, .card3 p{
+      margin-top: 500px;
+   }
+}
+
+@media (min-width: 426px) {
+   .card1 p, .card2 p, .card3 p{
+      margin-top: 300px;
+   }
+}
+
+
+@media (max-width: 426px) {
+   .card1, .card2, .card3{
+      margin-top: 50px;
+      width: 600px;
+   }
+}
+
+
+@media (min-width: 426px) {
+   .third img{
+     
+	width: 100%;
+	height: 647px;
+
+   }
+}
+
+
+@media (max-width: 426px) {
+   .third img{
+      width: 100%;
+      height: 200px;
+
+   }
+}
+
+@media (min-width: 426px) {
+   .third h2{
+     
+	position: absolute;
+	top: 235%;
+	left: 70%;
+	margin-top: 180px;
+	font-family: 'Montserrat';
+font-style: normal;
+font-weight: 900px;
+font-size: 35px;
+color: white;
+
+   }
+}
+
+
+@media (max-width: 426px) {
+   .third h2{
+     
+     position: absolute;
+     top: 720%;
+     color: white;
+     width: 100%;
+     text-align: center;
+     
+
+
+   }
+}
+
+
+@media (min-width: 426px) {
+   .third p{
+     
+	position: absolute;
+	top: 275%;
+	left: 70%;
+	color: white;
+	font-family: 'Montserrat';
+font-style: normal;
+font-weight: 300px;
+font-size: 15px;
+width: 20%;
+
+   }
+}
+
+
+@media (max-width: 426px) {
+   .third p{
+     color: white;
+     position: absolute;
+     top: 730%;
+     
+     width: 100%;
+     text-align: center;
+      
+
+
+   }
+}
+
+
+@media (max-width: 426px) {
+   .third .position{
+     height: 250px;
+     background: linear-gradient(0deg, rgba(0, 0, 0, 0.33), rgba(0, 0, 0, 0.33)), linear-gradient(231.38deg, #7D42FF -5.3%, #08FCFF 119.03%);
+
+   }
+}
+
+
+@media (max-width: 426px) {
+   .card4 img, .card5 img{
+    height: 450px;
+
+   }
+}
+
+@media (max-width: 426px) {
+   .card5{
+    margin-top: 10px;
+
+   }
+}
+
+
+
+@media (max-width: 426px) {
+   .fifth img{
+    display: none;
+
+   }
+}
+
+
+@media (min-width: 426px) {
+   .fifth {
+   background-image: url(../images/rectangle5.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 700px;
+
+   }
+}
+
+@media (max-width: 426px) {
+   .fifth {
+    background: #243F60;;
+    height: 450px;
+   }
+}
+
+
+@media (min-width: 426px) {
+   .fifth .absolute {
+   width: 30%;
+position: absolute;
+left: 39%;
+top: 488%;
+
+   }
+}
+
+@media (max-width: 426px) {
+   .fifth .absolute {
+   width: 100%;
+position: absolute;
+left: 1%;
+top: 1130%;
+
+   }
+}
+
+@media (max-width: 426px) {
+   .fifth .absolute h4 {
+  font-size: 25px;
+ 
+  text-align: center;
+
+   }
+}
+
+@media (max-width: 426px) {
+   .fifth .absolute p {
+  font-size: 22px;
+  width: 90%;
+  text-align: center;
+  padding-left: 20px;
+   }
+}
+
+@media (max-width: 426px) {
+   .fifth .absolute input {
+  width: 70%;
+  margin-left: 50px;
+   }
+}
+
+@media (max-width: 426px) {
+   .fifth .absolute select {
+  width: 70%;
+  margin-left: 50px;
+   }
+}
+
+@media (min-width: 426px) {
+   .fifth .absolute button {
+  padding-left: 150px;
+	padding-right: 150px;
+   }
+}
+
+@media (max-width: 426px) {
+   .fifth .absolute button {
+ margin-left: 50px;
+   }
+}
+
+@media (min-width: 426px) {
+   .cards {
+   	display: flex;
+	background-image: url(../images/Ellipse.png);
+	height: 350px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-left: 200px;
+ 
+   }
+}
+
+@media (min-width: 426px) {
+   .cards .card{
+   width: 200px;
+	height: 250px;
+	margin-left: 15px;
+	margin-top: 45px;
+	border:3px solid transparent;
+background: linear-gradient(#fff,#fff) padding-box,
+ linear-gradient(231.38deg, #7d42ff -5.3%, #08fcff 119.03%) border-box;
+ 
+   }
+}
+
+@media (max-width: 426px) {
+   .cards {
+   	text-align: center;
+	background-image: url(../images/Ellipse.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding-left: 100px;
+	padding-bottom: 100px;
+
+ 
+   }
+}
+
+@media (max-width: 426px) {
+   .cards .card{
+   width: 250px;
+   padding-top: 50px;
+	height: 300px;
+	margin-top: 60px;
+	border:3px solid transparent;
+background: linear-gradient(#fff,#fff) padding-box,
+ linear-gradient(231.38deg, #7d42ff -5.3%, #08fcff 119.03%) border-box;
+ 
+   }
+}
+
+@media (max-width: 426px){
+	div.sixth{
+		padding-top: 100px;
+	}
+}
+
+
+@media (min-width: 426px) {
+   div.sixth h2{
+   	font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 33px;
+line-height: 39px;
+text-align: center;
+  
+ 
+   }
+}
+
+@media (max-width: 426px) {
+   div.sixth h2{
+ 	font-family: 'Montserrat';
+font-style: normal;
+font-weight: 700;
+font-size: 30px;
+line-height: 39px;
+width: 96%;
+padding-left: 30px;
+   
+}
+}
+
+
+
+@media (max-width: 426px) {
+   body{
+ 	background-image: url(../images/Rectangle24.png), url(../images/Rectangle2.png);
+  background-repeat: no-repeat;
+  background-position: left top, right top relative;
+  background-size: cover;
+  background-position-x: 212px;
+  
+}
+   
+}
+
+@media (min-width: 426px) {
+   div.isti h1{
+ 	
+  position: absolute;
+	top: 30%;
+	left: 25%;
+	font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 80px;
+line-height: 120%;
+color: #FAAD01;
+
+
+}
+   
+}
+
+
+@media (max-width: 426px) {
+   div.isti h1{
+ 	
+  position: absolute;
+	top: 25%;
+	left: 20%;
+	font-family: 'Montserrat';
+font-style: normal;
+font-weight: 500;
+font-size: 35px;
+line-height: 120%;
+color: #FAAD01;
+
+
+}
+   
+}
+
+
+
+
+@media (min-width: 426px) {
+  div.carousel-item img {
+ 	height: 500px;
+ 	width: 100%;
+ 
+}
+   
+}
+
+@media (max-width: 426px) {
+  div.carousel-item img {
+ 	height: 400px;
+ 	width: 100%;
+ 	
+ 
+}
+   
+}
+
+
+
+
+
+
+
+
+
+
+
